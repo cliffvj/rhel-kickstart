@@ -27,7 +27,7 @@ profile = xccdf_org.ssgproject.content_profile_pci-dss
 %end
 
 %packages
-@^web-server-environment
+@^minimal-environment
 # Package Groups
 @web-server
 #@file-server
