@@ -27,5 +27,5 @@ firewall --disabled
 %packages
 @^minimal-environment
 # Package Groups
-@@file-server
+@file-server
 %end
