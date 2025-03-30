@@ -4,6 +4,8 @@ keyboard us
 timezone Asia/Manila --utc
 rootpw $2b$10$HrK3WaS0Eqaja6AyytZ9Vum5sX.1twMSoRW1S4K.ZpcSn2ShABE5. --iscrypted
 reboot --eject
+# Installation mode
+text
 
 cdrom
 eula --agreed
